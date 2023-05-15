@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+	<RootNamespace>ZnetSceneDebugger</RootNamespace>
+  </PropertyGroup>
+</Project>
